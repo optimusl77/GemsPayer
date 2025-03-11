@@ -4,6 +4,7 @@
 This is a **Discord bot** designed to automate gem balance checking and payments on TrySMP (Trymp.net). The bot periodically retrieves gem balances and automatically transfers them when detected. It also includes useful server commands like channel management and interval settings.
 
 ## 🚀 Features
+- **Shows all possible Commands** (`!help`)
 - **Automatic gem balance checking** (`/gems balance`)
 - **Auto-payment of gems** when detected
 - **Channel registration** for automated monitoring (`!setchannel`)
