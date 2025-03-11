@@ -96,7 +96,7 @@ async def setchannel(ctx, action: str = None, channel_id: int = None):
                 await ctx.send(f"Der Kanal <#{channel_id}> wurde für automatische /gems balance Abfragen hinzugefügt.")
             else:
                 await ctx.send("Ungültige Kanal-ID! Stelle sicher, dass der Bot Zugriff auf den Kanal hat.")
-        else:  # Falls keine ID angegeben wurde, nimm den aktuellen Kanal
+        else:
             balance_channels.add(ctx.channel.id)
             save_channels()
             await ctx.send("Dieser Kanal wurde für automatische /gems balance Abfragen hinzugefügt.")
