@@ -14,7 +14,7 @@ This is a **Discord bot** designed to automate gem balance checking and payments
 ## 🛠️ Installation
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/discord-gems-bot.git
+git clone https://github.com/optimusl77/GemsPayer.git
 cd discord-gems-bot
 ```
 
