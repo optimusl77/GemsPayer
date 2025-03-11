@@ -1,7 +1,9 @@
 # Discord Gems Bot
 
 ## 📌 Overview
-This is a **Discord bot** designed to automate gem balance checking and payments on TrySMP (Trymp.net). The bot periodically retrieves gem balances and automatically transfers them when detected. It also includes useful server commands like channel management and interval settings.
+This is a Discord bot designed to automate gem balance checking and payments on TrySMP (Trymp.net). The bot periodically retrieves gem balances and automatically transfers them when detected. It also includes useful server commands like channel management and interval settings.
+
+🔗 Recommended to use with [Zenith Proxy](https://github.com/rfresh2/ZenithProxy).
 
 ## 🚀 Features
 - **Shows all possible Commands** (`!help`)
